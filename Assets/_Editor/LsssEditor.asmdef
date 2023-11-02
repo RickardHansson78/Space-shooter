@@ -1,0 +1,19 @@
+{
+    "name": "LsssEditor",
+    "rootNamespace": "",
+    "references": [
+        "Lsss",
+        "Latios.Kinemation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
